@@ -1,3 +1,5 @@
+# Link: https://raw.githubusercontent.com/immobilienmakler/raspberry-pi-hole-blocklist/main/filter.txt
+
 facebook.com
 www.facebook.com
 m.facebook.com
