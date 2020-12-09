@@ -1,4 +1,5 @@
 # Link: https://raw.githubusercontent.com/immobilienmakler/raspberry-pi-hole-blocklist/main/filter.txt
+# Wir von Bayernwerte Immobilien stellen diese Liste kostenfrei zur Verfügung, ein Overblocking Effekt wird nach Möglichkeit vermieden!
 
 facebook.com
 www.facebook.com
